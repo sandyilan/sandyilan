@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Cybersecurity | Rust & Solidity Developer | Web3 
+  Forward Deployment Engineer | Rust & Solidity Developer | Web3 
 </h3>
 
 ---
